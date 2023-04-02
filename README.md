@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C# and Python + SvelteKit JS.TS framework.
 - 💞️ My main projects are:
   - [Ratchet & Clank: Battle in Solana (Fangame)](https://galaxstar-studio.xyz/ "galaxstar-studio.xyz")
+  - [Raclette & Tank Importer (Blender Plugin)](https://github.com/VELD-Dev/raclette-and-tank "Raclette & Tank repo")
   - [Weebnovel.fr](https//www.weebnovel.fr/ "weebnovel.fr")
-  - [Alterra Weaponry (Subnautica Mod)](https://github.com/VELD-Dev/AlterraWeaponry "AlterraWeaponry repo")
+  - [Alterra Weaponry (Subnautica Below Zero mod)](https://github.com/VELD-Dev/AlterraWeaponry "AlterraWeaponry repo")
   - [A little Discord bot, just for fun but anyway](403 "Forbidden")
-- 👍 I'm looking for collaborators for Alterra Weaponry and a Blueprint developper for Ratchet & Clank: Battle in Solana Fangame.
