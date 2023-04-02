@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VELD-Dev
 - 🏴 I'm French, living at Lyon
 - 👀 I’m interested in videogames (and making them), web/apps development, global programmation and mathematics
-- 🌱 I’m currently learning C# and Python + SvelteKit JS.TS framework.
+- 🌱 I’m currently learning C#, Unreal Engine and SvelteKit-JS/TS framework.
 - 💞️ My main projects are:
   - [Ratchet & Clank: Battle in Solana (Fangame)](https://galaxstar-studio.xyz/ "galaxstar-studio.xyz")
   - [Raclette & Tank Importer (Blender Plugin)](https://github.com/VELD-Dev/raclette-and-tank "Raclette & Tank repo")
