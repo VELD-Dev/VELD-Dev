@@ -3,7 +3,7 @@
 - 👀 I’m interested in videogames (and making them), web/apps development, global programmation and mathematics
 - 🌱 I’m currently learning C#, Unreal Engine and SvelteKit-JS/TS framework.
 - 💞️ My main projects are:
-  - [Weebnovel.fr](https//www.weebnovel.fr/ "weebnovel.fr")
+  - [Weebnovel.fr](https://www.weebnovel.fr/ "weebnovel.fr")
   - [RiftRipper](https://github.com/VELD-Dev/riftripper "Riftripper repo")
   - [Ratchet & Clank: Battle in Solana (Fangame)](https://galaxstar-studio.xyz/ "galaxstar-studio.xyz")
   - [Raclette & Tank Importer (Blender Plugin)](https://github.com/VELD-Dev/raclette-and-tank "Raclette & Tank repo")
