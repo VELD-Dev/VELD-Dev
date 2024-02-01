@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VELD-Dev
-- 🏴 I'm French, living at Lyon
+- 🏴 I'm French, living in Lyon
 - 👀 I’m interested in videogames (and making them), web/apps development, global programmation and mathematics
 - 🌱 I’m currently learning C#, Unreal Engine and SvelteKit-JS/TS framework.
 - 💞️ My main projects are:
