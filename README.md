@@ -2,6 +2,7 @@
 - 👀 I’m interested in videogames (and making them), web/apps development, global programmation and mathematics.
 - 🌱 I’m currently learning C#, Unreal Engine and Unity.
 - 💞️ My main projects are:
+  - **NEXUS REVERIES** (Unrevealed yet)
   - [Weebnovel.fr](https://www.weebnovel.fr/ "weebnovel.fr")
   - [RiftRipper](https://github.com/VELD-Dev/riftripper "Riftripper repo")
   - [Ratchet & Clank: Battle in Solana (Fangame)](https://galaxstar-studio.xyz/ "galaxstar-studio.xyz")
